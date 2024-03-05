@@ -1,4 +1,4 @@
-# rydberg-atom-computation
+rydberg-atom-computation
 ==========================
 
 
@@ -8,5 +8,5 @@ This is a computational project about rydberg atoms. A python package called ARC
 Authors
 -------
 
-[Chen Lu]
-Supervised by [Professor Mike Tarbutt]
+[Chen Lu](https://github.com/Wasabi33)
+Supervised by: [Prof Mike Tarbutt](https://www.imperial.ac.uk/people/m.tarbutt)
