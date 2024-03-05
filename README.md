@@ -8,5 +8,4 @@ This is a computational project about rydberg atoms. A python package called ARC
 Authors
 -------
 
-[Chen Lu](https://github.com/Wasabi33)
-Supervised by: [Prof Mike Tarbutt](https://www.imperial.ac.uk/people/m.tarbutt)
+[Chen Lu](https://github.com/Wasabi33), Supervised by: [Prof Mike Tarbutt](https://www.imperial.ac.uk/people/m.tarbutt)
