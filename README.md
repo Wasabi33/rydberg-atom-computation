@@ -7,6 +7,8 @@ This is a computational project about rydberg atoms. A python package called ARC
 
 More details can be found in this presentation `Preparation_of_high_principal_quantum_number_Rydberg_states.pdf`
 
+References are in the reference folder.
+
 ----------
 Environment
 ----------
