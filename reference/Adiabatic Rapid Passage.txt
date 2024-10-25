@@ -1,0 +1,21 @@
+﻿Demkov, Y. N. and V. Osherov (1968). "Stationary and nonstationary problems in quantum mechanics that can be solved by means of contour integration." Sov. Phys. JETP 26(916): 1.
+	
+Demkov, Y. N. and V. Ostrovsky (1995). "Crossing of two bands of potential curves." Journal of Physics B: Atomic, Molecular and Optical Physics 28(3): 403.
+	
+Hioe, F. T. (1987). "N-level quantum systems with SU(2) dynamic symmetry." Journal of the Optical Society of America. B, Optical physics 4(8): 1327-1332.
+	
+Kayanuma, Y. (1987). "Population Inversion in Optical Adiabatic Rapid Passage with Phase Relaxation." Physical review letters 58(19): 1934-1936.
+	
+Loy, M. M. T. (1974). "Observation of Population Inversion by Optical Adiabatic Rapid Passage." Physical review letters 32(15): 814-817.
+	
+Nakanishi, S., et al. (1981). "Optical adiabatic rapid passage by linear frequency chirping in ruby." OPT COMMUN 38(5): 419-422.
+	The population inversion by optical adiabatic rapid passage (ARP) has been observed, for the first time, in a solid, ruby, under a linear frequency chirping using Stark effect. In addition to the emission after ARP, the phase-inverted optical free induction decay(fid) signals indicating population inversion were observed and used to measure the degree of population inversion precisely. The experimental results were compared with Horwitz's calculation and numerical solutions of Bloch equations with relaxation terms. The decay of the population inversion was also measured.
+
+Rangelov, A. A., et al. (2010). "Rapid adiabatic passage without level crossing." Optics communications 283(7): 1346-1350.
+	We present a method for achieving complete population transfer in a two-state quantum system via adiabatic time evolution in which, contrary to conventional rapid adiabatic passage produced by chirped pulses, there occurs no crossing of diabatic energy curves: there is no sign change of the detuning. Instead, we use structured pulses, in which, in addition to satisfying conditions for adiabatic evolution, there occurs a sign change of the Rabi frequency when the detuning is zero. We present simulations that offer simple geometrical interpretation of the two-dimensional motion of the Bloch vector for this system, illustrating how both complete population inversion and complete population return occur for different choices of structured pulses.
+
+Rubbmark, J. R., et al. (1981). "Dynamical effects at avoided level crossings: A study of the Landau-Zener effect using Rydberg atoms." Physical Review A 23(6): 3107-3117.
+	
+Vitanov, N. V., et al. (2001). "Laser-induced population transfer by adiabatic passage techniques." ANNU REV PHYS CHEM 52: 763-809.
+	We review some basic techniques for laser-induced adiabatic population transfer between discrete quantum states in atoms and molecules.
+

@@ -1,0 +1,3 @@
+﻿Johnson, T. A., et al. (2008). "Rabi oscillations between ground and Rydberg States with dipole-dipole atomic interactions." PHYS REV LETT 100(11): 113003-113003.
+	We demonstrate Rabi oscillations of small numbers of Rb-87 atoms between ground and Rydberg states with n <= 43. Coherent population oscillations are observed for single atoms, while the presence of two or more atoms decoheres the oscillations. We show that these observations are consistent with van der Waals interactions of Rydberg atoms.
+
